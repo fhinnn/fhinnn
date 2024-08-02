@@ -6,7 +6,7 @@ I am **Dhafin**, Trying to learn to write and document all the things I've learn
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-drab-nu.vercel.app?user=fhinnn&theme=youtube-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-drab-nu.vercel.app/?user=fhinnn&theme=youtube-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!-- ![Dhafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhinnn&show_icons=true&theme=radical) -->
 
