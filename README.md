@@ -2,7 +2,7 @@
     Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 
-I am **Dhafin**, Trying to learn to write and document all the things I've learned, especially in the DevOps field.
+I am **Dhafin**, Trying to write and document all the things I've learned, especially in the DevOps field.
 
 ## Github Stats
 
